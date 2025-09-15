@@ -117,5 +117,5 @@ def main():
             st.error("Could not extract text from the uploaded file. Please try another file.")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
